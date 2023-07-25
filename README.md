@@ -28,7 +28,7 @@ A note on Data Wrangling...
 
 To create a table that could be analized, some column names needed to be updated because the headers were changed mid 2022. 
 
-To compare longer periods of time (3 full years), the Jersey City data sets were more adaptable. The files were much smaller and thus, could be utilized in Tableau Public with exceeding to 1 GB limit. 
+To compare longer periods of time (3 full years), the Jersey City data sets were more adaptable. The files were much smaller and thus, could be utilized in Tableau Public without exceeding to 1 GB limit. 
 
 That said, an article from the NY Times suggests that the findings in this analysis are consistent with trends across New York City. https://www.nytimes.com/2021/12/02/nyregion/citi-bike-parking-docking-station.html
 
@@ -36,7 +36,7 @@ During 2020 and the height of the pandemic, there was a slight decrease in rider
 
 ![Screen Shot 2023-07-24 at 11 14 49 PM](https://github.com/PsCushman/citibike-tableau-challenge/assets/122395437/fbdb6f97-6c0a-4c63-9b07-74b1fad22ad4)
 
-To explore whether  the jump in ridership truly followed the pandemic, we took a look at the ridership for the winter months of all three years to detrmine if the there had already been signigifant increases that may have been halted by the pandemic and the city shut down. While there had been an increase between 2018 and 2020 in these winter months, it was meager when compared to the jump post pandemic.
+To explore whether the jump in ridership truly followed the pandemic, we took a look at the ridership for the winter months of all three years to detrmine if the there had already been signigifant increases that may have been halted by the pandemic and the city shut down. While there had been an increase between 2018 and 2020 in these winter months, it was meager when compared to the jump post pandemic.
 
 ![Screen Shot 2023-07-24 at 11 15 32 PM](https://github.com/PsCushman/citibike-tableau-challenge/assets/122395437/d45aaf8d-86e3-4a64-8edc-44ae409b72c2)
 
