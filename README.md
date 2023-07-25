@@ -21,7 +21,7 @@ Post Pandemic ridership has rapidly increased even while other modes of public t
 Ridership in 2022 of CitiBikes was up over 160%, while in Feubuary 2023, Subway and Bus Ridership were both hovering around 65% of the ridership compared to Febuary 2019. https://comptroller.nyc.gov/wp-content/uploads/documents/Riders-Return-February-2023-Snapshot.pdf
 
 ![Screen Shot 2023-07-24 at 11 13 59 PM](https://github.com/PsCushman/citibike-tableau-challenge/assets/122395437/1c9c5032-f5fb-4c25-872a-77dd5e0de3e9)
-![Screen Shot 2023-07-24 at 11 19 49 PM](https://github.com/PsCushman/citibike-tableau-challenge/assets/122395437/99bfeb4f-d042-4f0d-b012-7a991a722371)
+![Screen Shot 2023-07-24 at 11 19 49 PM](https://github.com/PsCushman/citibike-tableau-challenge/assets/122395437/99bfeb4f-d042-4f0d-b012-7a991a722371){:style="display:block; margin-left:auto; margin-right:auto"}
 
 
 A note on Data Wrangling...
