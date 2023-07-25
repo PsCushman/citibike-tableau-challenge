@@ -18,8 +18,6 @@ Pre Pandemic CitiBike from Jersey City was a useful if not unpopular mode of tra
 
 Post Pandemic ridership has rapidly increased even while other modes of public transportation in the New York City Area have seen signifigant decreases. 
 
-In this Tableau Story, we will attempt to illustrate where and when the largest increases have been seen in CitiBike ridership throughout Jersey City in relation to it's pre Pandemic levels. 
-
 Ridership in 2022 of CitiBikes was up over 160%, while in Feubuary 2023, Subway and Bus Ridership were both hovering around 65% of the ridership compared to Febuary 2019. https://comptroller.nyc.gov/wp-content/uploads/documents/Riders-Return-February-2023-Snapshot.pdf
 
 ![Screen Shot 2023-07-24 at 11 13 59 PM](https://github.com/PsCushman/citibike-tableau-challenge/assets/122395437/1c9c5032-f5fb-4c25-872a-77dd5e0de3e9)
